@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #76C4EE;
+    width: 100%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+h1 {
+    color: white;
+    padding-left: 30px;
+    font-size: 100px;
+}
+
+.header-button {
+    background-color: #76C4EE;
+    font-size: 40px;
+    padding-left: 30px;
+    color: white;
+    border: none;
+    font-family: 'Unbounded';
+}
+
+:hover button {
+    background-color: gray;
+}
